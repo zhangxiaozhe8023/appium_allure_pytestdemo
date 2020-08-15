@@ -1,0 +1,67 @@
+{
+  "uid" : "6f02bd63b2a9f8e7",
+  "name" : "test02",
+  "fullName" : "testcase.test_alluredemo#test02",
+  "historyId" : "c7ea3f62554b1de7724babea5fdfe1f7",
+  "time" : {
+    "start" : 1597379039046,
+    "stop" : 1597379039046,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ca251b61e8cae80",
+      "name" : "stdout",
+      "source" : "8ca251b61e8cae80.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_alluredemo"
+  }, {
+    "name" : "host",
+    "value" : "appledeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "95030-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_alluredemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f02bd63b2a9f8e7.json",
+  "parameterValues" : [ ]
+}

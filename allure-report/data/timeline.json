@@ -1,0 +1,86 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "appledeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "95030-MainThread",
+      "children" : [ {
+        "name" : "test02",
+        "uid" : "6f02bd63b2a9f8e7",
+        "parentUid" : "c15f9f22247b81ec12f4ebdfc5499936",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597379039046,
+          "stop" : 1597379039046,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test01",
+        "uid" : "37dc32b96ae0864d",
+        "parentUid" : "c15f9f22247b81ec12f4ebdfc5499936",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597379039042,
+          "stop" : 1597379039042,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c15f9f22247b81ec12f4ebdfc5499936"
+    }, {
+      "name" : "94848-MainThread",
+      "children" : [ {
+        "name" : "test01",
+        "uid" : "5d39448e459e91a6",
+        "parentUid" : "b095be7d6fefae1766b2b5641c3a08eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597378670349,
+          "stop" : 1597378670349,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b095be7d6fefae1766b2b5641c3a08eb"
+    }, {
+      "name" : "95169-MainThread",
+      "children" : [ {
+        "name" : "test01",
+        "uid" : "4476d71a8f0ac1aa",
+        "parentUid" : "146d152e7a70b6da571ecb9f0810278f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597379215182,
+          "stop" : 1597379215183,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test02",
+        "uid" : "20e5812b1ea52de5",
+        "parentUid" : "146d152e7a70b6da571ecb9f0810278f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1597379215185,
+          "stop" : 1597379215185,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "146d152e7a70b6da571ecb9f0810278f"
+    } ],
+    "uid" : "eb4774341b1ec406f497863ee31c01b4"
+  } ],
+  "name" : "timeline"
+}

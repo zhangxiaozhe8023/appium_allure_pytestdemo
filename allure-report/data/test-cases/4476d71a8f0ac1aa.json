@@ -1,0 +1,89 @@
+{
+  "uid" : "4476d71a8f0ac1aa",
+  "name" : "test01",
+  "fullName" : "testcase.test_alluredemo#test01",
+  "historyId" : "114d0c0ed404e5d91e619573edbf6c78",
+  "time" : {
+    "start" : 1597379215182,
+    "stop" : 1597379215183,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "30461d03e2d9df3d",
+      "name" : "stdout",
+      "source" : "30461d03e2d9df3d.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_alluredemo"
+  }, {
+    "name" : "host",
+    "value" : "appledeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "95169-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_alluredemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "www.baidu.com",
+    "url" : "www.baidu.com",
+    "type" : "test_case"
+  } ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "37dc32b96ae0864d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597379039042,
+        "stop" : 1597379039042,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5d39448e459e91a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597378670349,
+        "stop" : 1597378670349,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4476d71a8f0ac1aa.json",
+  "parameterValues" : [ ]
+}
